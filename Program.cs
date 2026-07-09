@@ -1,5 +1,7 @@
 ﻿using System.Reflection.Metadata.Ecma335;
 
+//test change
+
 // 1. Create a structure named “Point” and 2 data members: X and Y coordinate.
 // Declare 2 points: P1 and P2.
 // Determine if P2 is to the right or left of P1 or on same axis , by comparing the x Coordinates.
