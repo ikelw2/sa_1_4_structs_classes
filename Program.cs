@@ -1,6 +1,15 @@
 ﻿using System.Reflection.Metadata.Ecma335;
 
-//test change
+
+// Looking forward to practicing better formatting and clearer arrangement of my code. 
+// I need to get more in the habit of writing out classes and methods in a more organized way,
+// with clear separation of concerns and logical grouping of related functionality. This will
+// help improve readability and maintainability of the code.
+
+
+
+
+
 
 // 1. Create a structure named “Point” and 2 data members: X and Y coordinate.
 // Declare 2 points: P1 and P2.
@@ -40,7 +49,7 @@ myStudent.DisplayStudentInfo();
 
 
 //============================================================
-//============================================================ mode must precede type declarations... 
+//============================================================ code must precede type declarations... 
 Point ReturnLeftMostPoint(Point Point1, Point Point2)
 {
     if (Point1.xCoord < Point2.xCoord)
